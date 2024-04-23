@@ -1,0 +1,363 @@
+0000.000 (0) Opened log file at time: Fri, 08 Mar 2024 01:53:07 +0000 on http://tourism.lndo.site
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.3 PHP: 7.4.33 (apache2handler, Linux 4c02edebd2c5 5.15.133.1-microsoft-standard-WSL2 #1 SMP Thu Oct 5 21:02:42 UTC 2023 x86_64) MySQL: 5.7.29 (max packet size=33554432) WPLANG: en_US Server: Apache/2.4.54 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 1G (used: 7.3M | 8M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 231511.5 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.007 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.011 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1709272760, seconds_ago=590027)
+0000.017 (0) Set semaphore last lock (fd) time to 2024-03-08 01:53:07
+0000.018 (0) Semaphore lock (fd) complete
+0000.024 (0) Backup run: resumption=0, nonce=490043fb58f3, file_nonce=490043fb58f3 begun at=1709862787 (0s ago), job type=backup
+0000.026 (0) Scheduling a resumption (1) after 300 seconds (1709863087) in case this run gets aborted
+0000.046 (0) Checking if we have a zip executable available
+0000.052 (0) Creation of backups of directories: beginning
+0000.056 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.081 (0) Total entities for the zip file: 741 directories, 3439 files (0 skipped as non-modified), 90.1 MB
+0000.087 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.091 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.094 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.096 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.099 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.102 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 3439 files batched, 613 (613) added so far); re-opening (prior size: 0 KB)
+0001.457 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2.1 s, rate: 12343.1 KB/s)
+0001.462 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.10307097435, normalised_time=2.0740392198422, max_time=1.4602828025818, data points known=1, old_max_bytes=26214400, new_max_bytes=75835788)
+0001.469 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 700 files added (on-disk size: 6833.8 KB)
+0001.473 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 800 files added (on-disk size: 6833.8 KB)
+0001.476 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 900 files added (on-disk size: 6833.8 KB)
+0001.478 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1000 files added (on-disk size: 6833.8 KB)
+0001.482 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1100 files added (on-disk size: 6833.8 KB)
+0001.484 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1200 files added (on-disk size: 6833.8 KB)
+0001.487 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1300 files added (on-disk size: 6833.8 KB)
+0001.489 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1400 files added (on-disk size: 6833.8 KB)
+0001.493 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1500 files added (on-disk size: 6833.8 KB)
+0001.496 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1600 files added (on-disk size: 6833.8 KB)
+0001.498 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (25 MB, 3439 files batched, 1001 (1614) added so far); re-opening (prior size: 6833.8 KB)
+0002.746 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1700 files added (on-disk size: 15186.3 KB)
+0002.750 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1800 files added (on-disk size: 15186.3 KB)
+0002.754 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 1900 files added (on-disk size: 15186.3 KB)
+0002.756 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2000 files added (on-disk size: 15186.3 KB)
+0002.758 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2100 files added (on-disk size: 15186.3 KB)
+0002.762 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2200 files added (on-disk size: 15186.3 KB)
+0002.764 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2300 files added (on-disk size: 15186.3 KB)
+0002.766 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2400 files added (on-disk size: 15186.3 KB)
+0002.769 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2500 files added (on-disk size: 15186.3 KB)
+0002.772 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2600 files added (on-disk size: 15186.3 KB)
+0002.774 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.8 MB, 3439 files batched, 1001 (2615) added so far); re-opening (prior size: 15186.3 KB)
+0004.429 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2700 files added (on-disk size: 21835.9 KB)
+0004.432 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2800 files added (on-disk size: 21835.9 KB)
+0004.434 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 2900 files added (on-disk size: 21835.9 KB)
+0004.436 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 3000 files added (on-disk size: 21835.9 KB)
+0004.438 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 3100 files added (on-disk size: 21835.9 KB)
+0004.442 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 3200 files added (on-disk size: 21835.9 KB)
+0004.444 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 3300 files added (on-disk size: 21835.9 KB)
+0004.446 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.tmp: 3400 files added (on-disk size: 21835.9 KB)
+0005.431 (0) Creating zip file manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.list-temp.tmp)
+0005.438 (0) Successfully created zip file manifest (size: 284530)
+0005.626 (0) Created plugins zip (0) - 26820.2 KB in 5.6 s (4818 KB/s) (sha1: 11f64d575bfecb9c00c30ba5e00537985ebcee8d, sha256: ae41ea88a45122c9972195738fe486c2c19ae602eb7ca6049e242916817cb5b8)
+0005.633 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0005.635 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0005.641 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0005.644 (0) An error condition has occurred for the first time during this job
+0005.648 (0) Beginning creation of dump of themes (split every: 400 MB)
+0005.655 (0) Total entities for the zip file: 129 directories, 618 files (0 skipped as non-modified), 8 MB
+0005.657 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.660 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0005.662 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0005.664 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.666 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.668 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0006.169 (0) Creating zip file manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.list-temp.tmp)
+0006.174 (0) Successfully created zip file manifest (size: 43116)
+0006.205 (0) Created themes zip (0) - 2030.7 KB in 0.6 s (3684.3 KB/s) (sha1: b576dc946f41bfda3d5ae1cb7b9688c7880fee82, sha256: 17ee80a84fc5be3089dde753122a5c8b84f84b49b568e97b0f11842be8fbf809)
+0006.211 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0006.213 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0006.218 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0006.224 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.225 (0) Looking for candidates to backup in: /app/wp-content/uploads
+0006.226 (0) finding files: essential-addons-elementor: adding to list (1)
+0006.228 (0) finding files: wpcf7_uploads: adding to list (2)
+0006.229 (0) finding files: elementor: adding to list (3)
+0006.230 (0) finding files: pum: adding to list (4)
+0006.231 (0) finding files: 2024: adding to list (5)
+0006.233 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.236 (0) Total entities for the zip file: 9 directories, 115 files (0 skipped as non-modified), 9.5 MB
+0006.238 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.361 (0) Creating zip file manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip.list-temp.tmp)
+0006.363 (0) Successfully created zip file manifest (size: 5844)
+0006.435 (0) Created uploads zip (0) - 9149.2 KB in 0.2 s (45970 KB/s) (sha1: be0073b3f6256460768b24f93bb997609e036d2d, sha256: d9e1d05f5a318a6edca8a089b5682eaa48244de1adea41cbbd5ed80c776b20c7)
+0006.439 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0006.442 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0006.447 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0006.452 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0006.453 (0) Does not exist: /app/wp-content/mu-plugins
+0006.454 (0) There are no mu-plugins to backup. Will not raise an error.
+0006.455 (0) mu-plugins: create_zip returned an error
+0006.458 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.460 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.461 (0) Looking for candidates to backup in: /app/wp-content
+0006.462 (0) finding files: plugins: skipping: this is the plugins directory
+0006.463 (0) finding files: cache: skipping: excluded by options
+0006.464 (0) finding files: upgrade-temp-backup: adding to list (1)
+0006.465 (0) finding files: fonts: adding to list (2)
+0006.467 (0) finding files: upgrade: skipping: excluded by options
+0006.468 (0) finding files: themes: skipping: this is the themes directory
+0006.469 (0) finding files: index.php: adding to list (3)
+0006.470 (0) finding files: updraft: skipping: this is the updraft directory
+0006.472 (0) finding files: uploads: skipping: this is the uploads directory
+0006.476 (0) Total entities for the zip file: 37 directories, 377 files (0 skipped as non-modified), 5.9 MB
+0006.478 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.481 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.483 (0) Zip: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.792 (0) Creating zip file manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip.list-temp.tmp)
+0006.795 (0) Successfully created zip file manifest (size: 26792)
+0006.845 (0) Created others zip (0) - 5819.7 KB in 0.4 s (15712.6 KB/s) (sha1: 75f50c9fea18dfc2b05037d462829c564483764f, sha256: 1f9904f9773240f9eafad085f50eeb9693c5c92414764ea0b4b073376eda2fb9)
+0006.851 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0006.853 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0006.858 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0006.866 (0) Saving backup status to database (elements: 8)
+0006.870 (0) Beginning creation of database dump (WordPress DB)
+0006.871 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0006.873 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0006.890 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1541 bytes total)
+0006.893 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0006.906 (0) Table wp_options: Total expected rows (via COUNT): 280
+0006.907 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.924 (0) Table wp_options: Rows added in this batch (next record: 1133): 276 (uncompressed bytes in this segment=808991) in 0.03 seconds
+0006.934 (0) Table wp_options: finishing file(s) (2, 82.3 KB)
+0006.938 (0) Table wp_users: Total expected rows (via COUNT): 1
+0006.941 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.944 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1400) in 0.01 seconds
+0006.948 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0006.954 (0) Table wp_usermeta: Total expected rows (via COUNT): 32
+0006.955 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.960 (0) Table wp_usermeta: Rows added in this batch (next record: 32): 32 (uncompressed bytes in this segment=3541) in 0.01 seconds
+0006.965 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0006.971 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0006.973 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0006.979 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0006.983 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0006.984 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.987 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2152) in 0.00 seconds
+0006.992 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0006.996 (0) Table wp_links: Total expected rows (via COUNT): 0
+0007.000 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0007.004 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0007.111 (0) Table wp_postmeta: Total expected rows (approximate): 6895
+0007.340 (0) Table wp_postmeta: Rows added in this batch (next record: 10330): 8631 (uncompressed bytes in this segment=21765750) in 0.33 seconds
+0007.353 (0) Table wp_postmeta: finishing file(s) (2, 533.1 KB)
+0007.381 (0) Table wp_posts: Total expected rows (approximate): 1027
+0007.440 (0) Table wp_posts: Rows added in this batch (next record: 1431): 1311 (uncompressed bytes in this segment=4927673) in 0.08 seconds
+0007.451 (0) Table wp_posts: finishing file(s) (2, 108.4 KB)
+0007.455 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0007.458 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 5 (uncompressed bytes in this segment=754) in 0.00 seconds
+0007.464 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0007.470 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 2
+0007.471 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0007.474 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=957) in 0.01 seconds
+0007.480 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0007.485 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0007.488 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0007.494 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0007.497 (0) Table wp_terms: Total expected rows (via COUNT): 2
+0007.498 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0007.501 (0) Table wp_terms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=761) in 0.00 seconds
+0007.506 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0007.511 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0007.513 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=529) in 0.00 seconds
+0007.517 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0007.524 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 11
+0007.525 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0007.529 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 15): 11 (uncompressed bytes in this segment=8585) in 0.01 seconds
+0007.536 (0) Table wp_yoast_indexable: finishing file(s) (2, 1.8 KB)
+0007.540 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 7
+0007.543 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 7 (uncompressed bytes in this segment=907) in 0.00 seconds
+0007.548 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0007.552 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0007.553 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0007.557 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1265) in 0.00 seconds
+0007.562 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0007.566 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0007.570 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=858) in 0.01 seconds
+0007.575 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0007.578 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 19
+0007.581 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0007.584 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 37): 19 (uncompressed bytes in this segment=2789) in 0.01 seconds
+0007.588 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.8 KB)
+0007.591 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_options.table.tmpr1134.gz (1/18/fopen): adding to final database dump
+0007.592 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_options.table.gz (2/18/fopen): adding to final database dump
+0007.593 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_users.table.tmpr2.gz (3/18/fopen): adding to final database dump
+0007.594 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_users.table.gz (4/18/fopen): adding to final database dump
+0007.595 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_usermeta.table.tmpr33.gz (5/18/fopen): adding to final database dump
+0007.596 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_usermeta.table.gz (6/18/fopen): adding to final database dump
+0007.597 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_commentmeta.table.tmpr0.gz (7/18/fopen): adding to final database dump
+0007.599 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_commentmeta.table.gz (8/18/fopen): adding to final database dump
+0007.600 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_comments.table.tmpr2.gz (9/18/fopen): adding to final database dump
+0007.601 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_comments.table.gz (10/18/fopen): adding to final database dump
+0007.602 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_links.table.tmpr0.gz (11/18/fopen): adding to final database dump
+0007.603 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_links.table.gz (12/18/fopen): adding to final database dump
+0007.604 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_postmeta.table.tmpr10331.gz (13/18/fopen): adding to final database dump
+0007.608 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_postmeta.table.gz (14/18/fopen): adding to final database dump
+0007.610 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_posts.table.tmpr1432.gz (15/18/fopen): adding to final database dump
+0007.612 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_posts.table.gz (16/18/fopen): adding to final database dump
+0007.613 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_term_relationships.table.tmpr100001.gz (17/18/fopen): adding to final database dump
+0007.615 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_term_relationships.table.gz (18/18/fopen): adding to final database dump
+0007.617 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_term_taxonomy.table.tmpr3.gz (19/18/fopen): adding to final database dump
+0007.618 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_term_taxonomy.table.gz (20/18/fopen): adding to final database dump
+0007.620 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_termmeta.table.tmpr0.gz (21/18/fopen): adding to final database dump
+0007.621 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_termmeta.table.gz (22/18/fopen): adding to final database dump
+0007.623 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_terms.table.tmpr3.gz (23/18/fopen): adding to final database dump
+0007.624 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_terms.table.gz (24/18/fopen): adding to final database dump
+0007.625 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_e_events.table.tmpr0.gz (25/18/fopen): adding to final database dump
+0007.626 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_e_events.table.gz (26/18/fopen): adding to final database dump
+0007.627 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_indexable.table.tmpr16.gz (27/18/fopen): adding to final database dump
+0007.629 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_indexable.table.gz (28/18/fopen): adding to final database dump
+0007.631 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (29/18/fopen): adding to final database dump
+0007.632 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_indexable_hierarchy.table.gz (30/18/fopen): adding to final database dump
+0007.633 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_migrations.table.tmpr25.gz (31/18/fopen): adding to final database dump
+0007.634 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_migrations.table.gz (32/18/fopen): adding to final database dump
+0007.635 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_primary_term.table.tmpr0.gz (33/18/fopen): adding to final database dump
+0007.637 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_primary_term.table.gz (34/18/fopen): adding to final database dump
+0007.638 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_seo_links.table.tmpr38.gz (35/18/fopen): adding to final database dump
+0007.640 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db-table-wp_yoast_seo_links.table.gz (36/18/fopen): adding to final database dump
+0007.642 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz: finished writing out complete database file (733.9 KB)
+0007.655 (0) Total database tables backed up: 18 (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz, size: 751670, sha1: 03ddb8dcb8f90c535312507d2575f9bea8b8cad6, sha256: 4078ef7cb9ded9b1f1af04384994980359655503da82e1c681a09f09ce6e0aef)
+0007.664 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.665 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.666 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.668 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.670 (0) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.671 (0) Saving backup history. Total backup size: 43.5 MB
+0007.675 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0007.680 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0007.682 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0007.686 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0007.691 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0007.693 (0) Number of backup sets in history: 3; groups (db): 1
+0007.694 (0) Examining (for databases) backup set with group_id=0, nonce=490043fb58f3, datestamp=1709862787 (Mar 08 2024 01:53:07)
+0007.695 (0) This backup set is the backup set just made, so will not be deleted.
+0007.695 (0) Examining (for databases) backup set with group_id=0, nonce=d23eec88e708, datestamp=1709272756 (Mar 01 2024 05:59:16)
+0007.695 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0007.697 (0) Examining (for databases) backup set with group_id=0, nonce=4ae6aa6da187, datestamp=1708940379 (Feb 26 2024 09:39:39)
+0007.697 (0) 1708940379: db: this set includes a database (backup_2024-02-26-0939_FlyingBeat_4ae6aa6da187-db.gz); db count is now 2
+0007.697 (0) 1708940379: db: over retain limit (2); will delete this database
+0007.700 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0007.702 (0) Google Drive: delete: failed due to storage error: http_request_failed (cURL error 6: Could not resolve host: auth.updraftplus.com)
+0007.711 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0007.712 (0) Number of backup sets in history: 3; groups (files): 1
+0007.713 (0) Examining (for files) backup set with nonce=490043fb58f3, datestamp=1709862787 (Mar 08 2024 01:53:07)
+0007.713 (0) This backup set is the backup set just made, so will not be deleted.
+0007.715 (0) This backup set is the backup set just made, so will not be deleted.
+0007.715 (0) This backup set is the backup set just made, so will not be deleted.
+0007.715 (0) This backup set is the backup set just made, so will not be deleted.
+0007.715 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0007.717 (0) Examining (for files) backup set with nonce=d23eec88e708, datestamp=1709272756 (Mar 01 2024 05:59:16)
+0007.717 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0007.717 (0) Examining (for files) backup set with nonce=4ae6aa6da187, datestamp=1708940379 (Feb 26 2024 09:39:39)
+0007.717 (0) plugins: over retain limit (2); will delete this file entity
+0007.717 (0) themes: over retain limit (2); will delete this file entity
+0007.717 (0) uploads: over retain limit (2); will delete this file entity
+0007.717 (0) others: over retain limit (2); will delete this file entity
+0007.720 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 6: Could not resolve host: auth.updraftplus.com) (http_request_failed)
+0007.722 (0) Google Drive: delete: failed due to storage error: http_request_failed (cURL error 6: Could not resolve host: auth.updraftplus.com)
+0007.727 (0) This backup set is now empty; will remove from history
+0007.728 (0) Deleting log file (log.4ae6aa6da187.txt)
+0007.732 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0007.738 (0) Resume backup (490043fb58f3, 0): finish run
+0007.744 (0) Decremented the semaphore (fd) by 1
+0007.747 (0) Semaphore (fd) unlocked
+0007.748 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0007.751 (0) No email will/can be sent - the user has not configured an email address.
+0007.753 (0) The backup has not finished; a resumption is scheduled
+0334.115 (1) Opened log file at time: Fri, 08 Mar 2024 01:58:41 +0000 on http://tourism.lndo.site
+0334.118 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.3 PHP: 7.4.33 (apache2handler, Linux 4c02edebd2c5 5.15.133.1-microsoft-standard-WSL2 #1 SMP Thu Oct 5 21:02:42 UTC 2023 x86_64) MySQL: 5.7.29 (max packet size=33554432) WPLANG: en_US Server: Apache/2.4.54 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 1G (used: 7M | 8M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG: C ZipArchive::addFile: Y
+0334.121 (1) Free space on disk containing Updraft's temporary directory: 231467.6 MB
+0334.125 (1) Requesting backup semaphore lock (490043fb58f3)
+0334.130 (1) [Debug] Lock option (updraft_lock_490043fb58f3, wp_options) was created in the database
+0334.131 (1) [Info] Lock (updraft_lock_490043fb58f3, wp_options) acquired after initialising the database
+0334.134 (1) Backup run: resumption=1, nonce=490043fb58f3, file_nonce=490043fb58f3 begun at=1709862787 (334s ago), job type=backup, previous check-in=7.73s
+0334.137 (1) Scheduling a resumption (2) after 300 seconds (1709863421) in case this run gets aborted
+0334.139 (1) Checking if we have a zip executable available
+0334.140 (1) Creation of backups of directories: already finished
+0334.141 (1) Saving backup status to database (elements: 8)
+0334.147 (1) Database dump (WordPress DB): Creation was completed already
+0334.148 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0334.154 (1) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0334.155 (1) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0334.156 (1) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0334.157 (1) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0334.158 (1) backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0334.160 (1) Saving backup history. Total backup size: 43.5 MB
+0334.165 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0334.167 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0334.168 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-1a16e2be1a123f9528ea45bfeb7d0e18)
+0337.846 (1) Google Drive: quota usage: used=603.9 MB, total=15360 MB, available=14756.1 MB
+0337.850 (1) Google Drive: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip: Attempting to upload to Google Drive (into folder id: 1u05nL3UxjbL7ARZA0hSMe_7jDEDCIlue)
+0341.515 (1) Googledrive chunked upload: 3.8 % uploaded (1048576)
+0342.996 (1) Googledrive chunked upload: 7.6 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 8.1 / 10)
+0344.902 (1) Googledrive chunked upload: 15.3 % uploaded (4194304 - increasing chunk size to 4096 KB - memory usage: 8.1 / 10)
+0347.765 (1) Googledrive chunked upload: 30.5 % uploaded (8388608)
+0350.301 (1) Googledrive chunked upload: 45.8 % uploaded (12582912)
+0353.294 (1) Googledrive chunked upload: 61.1 % uploaded (16777216)
+0355.988 (1) Googledrive chunked upload: 76.4 % uploaded (20971520)
+0358.896 (1) Googledrive chunked upload: 91.6 % uploaded (25165824)
+0363.226 (1) Googledrive chunked upload: 100 % uploaded (25165824)
+0363.231 (1) Google Drive: OK: Archive backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip uploaded in 25.38 seconds
+0363.234 (1) Recording as successfully uploaded: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip
+0363.241 (1) Deleting local file: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip: OK
+0364.018 (1) Google Drive: quota usage: used=630.1 MB, total=15360 MB, available=14729.9 MB
+0364.021 (1) Google Drive: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip: Attempting to upload to Google Drive (into folder id: 1u05nL3UxjbL7ARZA0hSMe_7jDEDCIlue)
+0367.632 (1) Googledrive chunked upload: 50.4 % uploaded (1048576)
+0370.913 (1) Googledrive chunked upload: 100 % uploaded (1048576)
+0370.933 (1) Google Drive: OK: Archive backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip uploaded in 6.91 seconds
+0370.941 (1) Recording as successfully uploaded: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip
+0370.952 (1) Deleting local file: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip: OK
+0371.823 (1) Google Drive: quota usage: used=632.1 MB, total=15360 MB, available=14727.9 MB
+0371.830 (1) Google Drive: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1u05nL3UxjbL7ARZA0hSMe_7jDEDCIlue)
+0375.686 (1) Googledrive chunked upload: 11.2 % uploaded (1048576)
+0377.783 (1) Googledrive chunked upload: 22.4 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 8.1 / 12)
+0380.066 (1) Googledrive chunked upload: 44.8 % uploaded (4194304 - increasing chunk size to 4096 KB - memory usage: 8.1 / 12)
+0383.512 (1) Googledrive chunked upload: 89.5 % uploaded (8388608)
+0386.880 (1) Googledrive chunked upload: 100 % uploaded (8388608)
+0386.887 (1) Google Drive: OK: Archive backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip uploaded in 15.05 seconds
+0386.888 (1) Recording as successfully uploaded: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip
+0386.893 (1) Deleting local file: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip: OK
+0387.944 (1) Google Drive: quota usage: used=641 MB, total=15360 MB, available=14719 MB
+0387.949 (1) Google Drive: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip: Attempting to upload to Google Drive (into folder id: 1u05nL3UxjbL7ARZA0hSMe_7jDEDCIlue)
+0391.385 (1) Googledrive chunked upload: 17.6 % uploaded (1048576)
+0393.308 (1) Googledrive chunked upload: 35.2 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 8.1 / 12)
+0395.488 (1) Googledrive chunked upload: 70.4 % uploaded (4194304 - increasing chunk size to 4096 KB - memory usage: 8.1 / 12)
+0399.172 (1) Googledrive chunked upload: 100 % uploaded (4194304)
+0399.179 (1) Google Drive: OK: Archive backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip uploaded in 11.23 seconds
+0399.182 (1) Recording as successfully uploaded: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip
+0399.188 (1) Deleting local file: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip: OK
+0400.289 (1) Google Drive: quota usage: used=646.7 MB, total=15360 MB, available=14713.3 MB
+0400.296 (1) Google Drive: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz: Attempting to upload to Google Drive (into folder id: 1u05nL3UxjbL7ARZA0hSMe_7jDEDCIlue)
+0405.006 (1) Googledrive chunked upload: 100 % uploaded
+0405.012 (1) Google Drive: OK: Archive backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz uploaded in 4.71 seconds
+0405.014 (1) Recording as successfully uploaded: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz
+0405.017 (1) Deleting local file: backup_2024-03-08-0153_FlyingBeat_490043fb58f3-db.gz: OK
+0405.022 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0405.024 (1) Number of backup sets in history: 2; groups (db): 1
+0405.026 (1) Examining (for databases) backup set with group_id=0, nonce=490043fb58f3, datestamp=1709862787 (Mar 08 2024 01:53:07)
+0405.027 (1) This backup set is the backup set just made, so will not be deleted.
+0405.027 (1) Examining (for databases) backup set with group_id=0, nonce=d23eec88e708, datestamp=1709272756 (Mar 01 2024 05:59:16)
+0405.027 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0405.029 (1) Number of backup sets in history: 2; groups (files): 1
+0405.030 (1) Examining (for files) backup set with nonce=490043fb58f3, datestamp=1709862787 (Mar 08 2024 01:53:07)
+0405.030 (1) This backup set is the backup set just made, so will not be deleted.
+0405.031 (1) This backup set is the backup set just made, so will not be deleted.
+0405.031 (1) This backup set is the backup set just made, so will not be deleted.
+0405.031 (1) This backup set is the backup set just made, so will not be deleted.
+0405.031 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0405.032 (1) Examining (for files) backup set with nonce=d23eec88e708, datestamp=1709272756 (Mar 01 2024 05:59:16)
+0405.032 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0405.032 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0405.036 (1) Resume backup (490043fb58f3, 1): finish run
+0405.039 (1) [Info] Lock option (updraft_lock_490043fb58f3, wp_options) released
+0405.042 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0405.047 (1) Deleting zip manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-plugins.zip.list.tmp)
+0405.048 (1) Deleting zip manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-themes.zip.list.tmp)
+0405.049 (1) Deleting zip manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-uploads.zip.list.tmp)
+0405.050 (1) Deleting zip manifest (backup_2024-03-08-0153_FlyingBeat_490043fb58f3-others.zip.list.tmp)
+0405.051 (1) No email will/can be sent - the user has not configured an email address.
+0405.053 (1) The backup succeeded and is now complete
